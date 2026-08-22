@@ -3,64 +3,133 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mercy Muiruri | Developer</title>
+    <title>Mercy Muiruri | Developer & Accounting Professional</title>
     <link rel="stylesheet" href="style.css">
     <style>
         html {
             scroll-behavior: smooth;
         }
-        #about {
-            padding: 60px 20px;
-            max-width: 800px;
-            margin: 0 auto;
-            font-size: 1.15rem;
-            line-height: 1.8;
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
         }
-        #about h2 {
-            font-size: 2.5rem;
-            margin-bottom: 20px;
-            color: #222;
+        nav {
+            background: #2c3e50;
+            color: #fff;
+            padding: 1rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin-left: 15px;
+        }
+        header {
+            background: #34495e;
+            color: #fff;
+            text-align: center;
+            padding: 4rem 2rem;
+        }
+        .btn {
+            display: inline-block;
+            background: #1abc9c;
+            color: #fff;
+            padding: 0.75rem 1.5rem;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 1rem;
+            font-weight: bold;
+        }
+        section, footer {
+            padding: 3rem 2rem;
+            max-width: 900px;
+            margin: 0 auto;
+            background: #fff;
+            margin-bottom: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
+        h2 {
+            color: #2c3e50;
+            border-bottom: 2px solid #1abc9c;
+            padding-bottom: 0.5rem;
+            margin-top: 0;
+        }
+        .hobbies-list {
+            margin-top: 10px;
+            padding-left: 20px;
+        }
+        .project {
+            margin-bottom: 1.5rem;
+        }
+        footer {
+            text-align: center;
+            background: #2c3e50;
+            color: #fff;
+        }
+        footer a {
+            color: #1abc9c;
+            text-decoration: none;
         }
     </style>
 </head>
 <body>
+
+    <!-- Navigation Bar -->
     <nav>
         <h2>Mercy Muiruri</h2>
         <div>
-            <a href="#about">About</a> | 
-            <a href="#projects">Projects</a> | 
+            <a href="#about">About</a>
+            <a href="#projects">Projects</a>
             <a href="#contact">Contact</a>
         </div>
     </nav>
+
+    <!-- Header / Hero Section -->
     <header>
         <h1>Hi, I'm Mercy Muiruri 👩‍💻</h1>
-        <p>Aspiring Web Developer passionate about building clean, responsive websites</p>
+        <p>Aspiring Web Developer & Accounting Professional based in Nairobi</p>
         <a class="btn" href="#projects">View My Work</a>
     </header>
 
-    <!-- Prominent About Section - Fully Visible on Load -->
+    <!-- About Me Section (Fully Visible on Main Page) -->
     <section id="about">
         <h2>About Me</h2>
-        <p>Hello! I am Mercy Gatwiri Muiruri, based in Nairobi. I am actively expanding my technical expertise through programming coursework in the C_Programming-SN11 cohort and participating in a Data Science course with Epic Academy. I work with modern development tools like Git, GitHub, VS Code configured with Copilot, and ChatGPT to build clean, functional applications and turn ideas into reality.</p>
+        <p>Hello! I am Mercy Gatwiri Muiruri, based in Nairobi. I studied accounts at Kiriri University and am currently pursuing my CPA studies at KCA. Alongside my solid foundation in accounting and finance, I am actively expanding my technical expertise through programming coursework, a Data Science course with Epic Academy, and building clean applications using modern tools like Git, GitHub, VS Code with Copilot, and ChatGPT.</p>
+        
+        <h3 style="margin-top: 25px; color: #2c3e50;">Hobbies & Interests</h3>
+        <ul class="hobbies-list">
+            <li>Reviewing books through OnlineBookClub</li>
+            <li>Practicing languages on Duolingo</li>
+            <li>Listening to music on Spotify</li>
+        </ul>
     </section>
 
-    <!-- Projects Section with ID added back so the button works -->
+    <!-- Projects Section -->
     <section id="projects">
         <h2>My Projects</h2>
         <div class="project">
             <h3>Community Hub</h3>
-            <p>Feedback form built with React, state management and API integration</p>
+            <p>Feedback form built with React, state management and API integration.</p>
         </div>
         <div class="project">
             <h3>Personal Portfolio</h3>
-            <p>This responsive portfolio you're viewing, built with HTML5, CSS3 Flexbox</p>
+            <p>This responsive portfolio you're viewing, built with HTML5, CSS3 Flexbox.</p>
         </div>
     </section>
 
     <!-- Contact Section -->
     <footer id="contact">
+        <h2>Contact Me</h2>
         <p>Phone: <a href="tel:0743944430">0743944430</a> | Pinterest: pretty wolf</p>
         <p>GitHub: <a href="https://github.com/mercymuiruri-hue" target="_blank">mercymuiruri-hue</a> | Live: <a href="https://mercymuiruri-hue.github.io/my-portfolio" target="_blank">mercymuiruri-hue.github.io/my-portfolio</a></p>
     </footer>
+
 </body>
 </html>
