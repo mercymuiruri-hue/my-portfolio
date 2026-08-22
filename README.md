@@ -1,19 +1,24 @@
-# Mercy Muiruri - Professional Portfolio 🚀
+# Hi, I'm Mercy Muiruri 👋 | Aspiring Web Developer
 
-A modern, responsive personal portfolio website built to showcase my web development background, skills, and projects.
+🚀 **Live Portfolio:** [https://mercymuiruri-hue.github.io/my-portfolio/](https://mercymuiruri-hue.github.io/my-portfolio/)
 
-## 🛠️ Tech Stack
-* **HTML5**
-* **CSS3** (with Flexbox and sticky navigation)
-* **JavaScript**
+### 🎯 About Me
+* 🎓 Learning Web Development, focused on building real-world websites
+* 🌱 Passionate about clean, fast, mobile-first design
+* 🤝 Open to collaborate on beginner-friendly open-source projects
+* 💬 Ask me about HTML, CSS, JavaScript
 
-## ✨ Features
-* **Sticky Navigation Bar:** Allows visitors to smoothly jump between sections (`#about`, `#skills`, `#projects`, `#contact`).
-* **Interactive Project Showcase:** Highlights key applications:
-  * **Community Hub:** Features feedback form development using React, state management, success messaging, and backend/API integration.
-  * **Hard Drive Utility:** A utility tool focusing on system storage management and optimization.
-* **Responsive Layout:** Custom-styled for optimal viewing across both desktop displays and mobile screens.
+### 🛠️ Tech Stack
+* **Frontend:** HTML5, CSS3 (with Flexbox and sticky navigation)
+* **Tools:** Git & GitHub, VS Code
 
-## 📂 Links & Live Demo
-* **GitHub Profile:** [mercymuiruri-hue](https://github.com/mercymuiruri-hue)
-* **Live Website:** [https://mercymuiruri-hue.github.io/portfolio/](https://mercymuiruri-hue.github.io/my-portfolio/)
+### 📌 Featured Projects
+1. **[My Portfolio Website](https://mercymuiruri-hue.github.io/my-portfolio/)** - A modern, responsive personal portfolio website built to showcase my web development projects.
+2. **Community Hub** - A simple community to connect members 
+
+### ✨ Features
+* **Smooth Navigation:** Allows visitors to smoothly jump between sections (`#about`, `#projects`, `#contact`) without losing their place.
+* **Responsive Layout:** Designed to look clean and adapt seamlessly across different screen sizes.
+
+### 📫 Reach Me
+* 💼 **GitHub:** [mercymuiruri-hue](https://github.com/mercymuiruri-hue)
