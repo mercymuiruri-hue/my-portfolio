@@ -16,4 +16,4 @@ A modern, responsive personal portfolio website built to showcase my web develop
 
 ## 📂 Links & Live Demo
 * **GitHub Profile:** [mercymuiruri-hue](https://github.com/mercymuiruri-hue)
-* **Live Website:** [https://mercymuiruri-hue.github.io/portfolio/](https://mercymuiruri-hue.github.io/portfolio/)
+* **Live Website:** [https://mercymuiruri-hue.github.io/portfolio/](https://mercymuiruri-hue.github.io/my-portfolio/)
